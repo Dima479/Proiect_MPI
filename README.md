@@ -4,7 +4,7 @@
 
 Acest proiect oferă două componente principale pentru lucrul cu probleme SAT (Satisfiability):
 
-* **generare.cpp**: Generator de instanțe CNF (3-SAT) în format DIMACS.
+* **generare.cpp**: Generator de instanțe CNF în format DIMACS.
 * **SAT.cpp**: Implementări ale algoritmilor de rezolvare SAT: **DPLL**, **Davis–Putnam** și **Rezoluție**.
 
 Fișierele `dimacs.txt` și `output.txt` sunt exemple pentru formatul de intrare și ieșire.
@@ -95,11 +95,3 @@ Resolution: SAT, Time=0ms
 | SAT.cpp      | Implementări DPLL, Davis–Putnam și Rezoluție |
 | dimacs.txt   | Exemplu de instanță CNF                      |
 | output.txt   | Exemplu de rezultat după rulare              |
-
-## Contribuții
-
-Contribuțiile sunt binevenite! Deschide un issue pentru sugestii sau un pull request cu îmbunătățiri.
-
-## Licență
-
-Licențiat sub MIT License. Vezi fișierul `LICENSE` pentru detalii.
