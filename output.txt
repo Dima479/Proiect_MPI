@@ -1,0 +1,6 @@
+DPLL: SAT, Time=0ms
+
+Davis–Putnam: SAT, Time=0ms
+
+Resolution: SAT, Time=0ms
+
